@@ -1,4 +1,5 @@
-# neural_style_transfer
-<img src="images/transform.jpg"/>
+# Neural Style Transfer
+A fun experiment on Neural Style Transfer using VGG 19 and Gatys paper.
+<img src="images/transform.JPG">
 
 
